@@ -14,6 +14,7 @@ custom_js:
 # Vega lite plots
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid --> 
 
