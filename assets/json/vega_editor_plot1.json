@@ -1,0 +1,24 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Drag out a rectangular brush to highlight points.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv"
+  },
+  "params": [
+    {
+      "name": "brush",
+      "select": "interval",
+      "value": {"x": [55, 160], "y": [13, 37]}
+    }
+  ],
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "Agency Name", "type": "ordinal"},
+    "y": {"field": "Year Acquired", "type": "quantitative"},
+    "color": {
+      "condition": {"param": "brush", "field": "Cylinders", "type": "ordinal"},
+      "value": "grey"
+    }
+  },
+  "config": {}
+}
