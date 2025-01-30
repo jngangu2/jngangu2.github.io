@@ -12,7 +12,7 @@ This is me writing an intro to this blog post.  So introlicioius.
 
 ## 1. Here is one thing I want to say
 
-This is maybe an important thing, and, at the very least it is first.
+This is maybe an important thing video
 
 ## 2. Another thing
 
