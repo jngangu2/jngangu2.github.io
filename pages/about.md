@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **Job Monita**,<br>
-I started this page to my passion and my projects(Data Science/ Data analyst)!
+I started this page to share my passion and my projects!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
