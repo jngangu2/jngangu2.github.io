@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{Job Monita}}**,<br>
+Hi I am **Job Monita**,<br>
 I started this page to my passion and my projects(Data Science/ Data analyst)!
 
 <div class="row">
