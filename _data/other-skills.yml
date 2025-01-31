@@ -3,7 +3,7 @@
   level: Expert
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  level: Expert
+- name: Data Visualization
+  percentage: 70
+  level: Proficient
   color: success
