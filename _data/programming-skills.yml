@@ -1,6 +1,6 @@
 - name: SQL
   percentage: 90
-  level: Expert
+  level: Advanced
   color: danger
 
 - name: Tableau
