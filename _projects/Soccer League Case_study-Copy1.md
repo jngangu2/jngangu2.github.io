@@ -3,7 +3,7 @@ By: Job Monita
 Data source from: https://www.kaggle.com/datasets/oles04/top-leagues-player
 The dataset used in this case study is all about soccer, soccer that is considered the most popular sport in the world, with over 3.5 billion fans worldwidetop. This dataset containt the 5 top soccer leagues in the Europe, which are the English Premier League, Spanish La Liga, German Bundesliga, Italian Serie A, and French Ligue 1. My choice about this dataset came from my biggest passion about soccer, I have always been a huge fan of soccer since i was a kid.
 ### Questions to consider
-1. who is the most expensives players in all league?
+1. who is the most expensives players in all leagues?
 2. which nationality has the most player in all league?
 3. who was the youngest players in all league? 
 ## Exploratory Data Analysis
